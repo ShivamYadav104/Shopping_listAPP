@@ -11,4 +11,3 @@ A clean Flutter app that allows users to add and manage grocery items efficientl
 - Delete items by swiping
 - Responsive and intuitive UI
 
-## 📸 Screenshots
